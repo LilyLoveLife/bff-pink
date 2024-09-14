@@ -50,5 +50,5 @@ app.use(async ctx => {
 });
 
 app.listen(3006, () => {
-  console.log('Server is running at http://localhost:3006');
+  console.log('Server jkkkkkk is running at http://localhost:3006');
 });

@@ -1,0 +1,10 @@
+{
+    "apps": {
+      "name": "node",
+      "script": "./app.js",
+      "args": [
+        "-e",
+        "development"
+      ]
+    }
+  }
